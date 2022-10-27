@@ -1,0 +1,25 @@
+body{
+    background-image:url("BG.jpg");
+    font-family: 'Franklin Gothic Medium';
+}
+.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 25px;
+	}
+
+
+#player1_name , #player2_name, #p1n, #p2n
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+h1{
+    font-size: 40px;
+    color: #191970;
+}
+label{
+    font-size: 20px;
+}
